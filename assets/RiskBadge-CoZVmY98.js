@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BLlJT2pm.js";var t=e(),n={高:`bg-softRed/15 text-softRed border-softRed/30`,中:`bg-champagne/20 text-[#9A6B1F] border-champagne/40`,低:`bg-sage/15 text-[#4E7A61] border-sage/30`};function r({level:e}){return(0,t.jsxs)(`span`,{className:`inline-flex rounded-full border px-2.5 py-1 text-xs font-semibold ${n[e]||n.低}`,children:[e,`風險`]})}export{r as t};
